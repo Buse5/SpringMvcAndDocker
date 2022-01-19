@@ -1,7 +1,7 @@
 # SpringMvcAndDocker
  In this project, I coded simple crud operations with spring mvc. I used Thymeleaf.
  
-# ALL EXPLANATIONS 👉 👉 👉
+# ALL EXPLANATIONS 👉 👉 👉 https://bsseylcin.medium.com/spri%CC%87ng-mvc-projesi%CC%87-ve-dockera-y%C3%BCklenmesi%CC%87-7ffd815b8830
 
 ARTICLE LISTS PAGE
 
