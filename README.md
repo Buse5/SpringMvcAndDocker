@@ -1,5 +1,7 @@
 # SpringMvcAndDocker
  In this project, I coded simple crud operations with spring mvc. I used Thymeleaf.
+ 
+# ALL EXPLANATIONS 👉 👉 👉
 
 ARTICLE LISTS PAGE
 
@@ -23,4 +25,3 @@ DOCKER CONTAINER
 
 ![image](https://user-images.githubusercontent.com/57727223/150048684-36ee303e-c519-469a-b85b-b0eaaf6d3aa3.png)
 
-ALL EXPLANATIONS 👉 👉 👉
