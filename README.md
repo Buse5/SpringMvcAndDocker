@@ -1,10 +1,10 @@
 # SpringMvcAndDocker
  In this project, I coded simple crud operations with spring mvc. I used Thymeleaf and I uploaded the project to docker.
  
- #
+ ## ALL EXPLANATIONS
 <p><em><a href="https://bsseylcin.medium.com/spri%CC%87ng-mvc-projesi%CC%87-ve-dockera-y%C3%BCklenmesi%CC%87-7ffd815b8830">ALL EXPLANATIONS</a></br>
 
- ## Kullanılan Diller ve Yetenekler
+ ## Languages And Abilities
 
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
