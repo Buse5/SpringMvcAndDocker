@@ -4,8 +4,15 @@
  #
 <p><em><a href="https://bsseylcin.medium.com/spri%CC%87ng-mvc-projesi%CC%87-ve-dockera-y%C3%BCklenmesi%CC%87-7ffd815b8830">ALL EXPLANATIONS</a></br>
 
- 
+ ## Kullanılan Diller ve Yetenekler
 
+| Dil / Yetenek | :arrow_right: | % |
+| ------------- |:-------------:|:-------------:|
+| Spring Boot MVC | :arrow_right: | 90 |
+| Docker | :arrow_right: | 80 |
+| Thymeleaf | :arrow_right: | 70 |
+| H2 Db | :arrow_right: | 70 |
+ 
 ARTICLE LISTS PAGE
 
 ![image](https://user-images.githubusercontent.com/57727223/150048397-9919f3c7-fae9-4363-b495-7cc94c391287.png)
