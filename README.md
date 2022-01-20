@@ -13,6 +13,20 @@
 | Thymeleaf | :arrow_right: | 70 |
 | H2 Db | :arrow_right: | 70 |
  
+ 
+## Uygulama Görselleri
+
+<p>
+
+<a href="https://user-images.githubusercontent.com/57727223/150048397-9919f3c7-fae9-4363-b495-7cc94c391287.png" target="_blank">
+<img src="https://user-images.githubusercontent.com/57727223/150048397-9919f3c7-fae9-4363-b495-7cc94c391287.png" width="200" style="max-width:100%;"></a>
+
+</p>
+ 
+ 
+ 
+ 
+ 
 ARTICLE LISTS PAGE
 
 ![image](https://user-images.githubusercontent.com/57727223/150048397-9919f3c7-fae9-4363-b495-7cc94c391287.png)
