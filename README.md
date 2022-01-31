@@ -9,7 +9,7 @@
  
  ## Languages And Abilities
 
-| Dil / Yetenek | :arrow_right: | % |
+| Languages/Abilities | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
 | Spring Boot MVC | :arrow_right: | 90 |
 | Docker | :arrow_right: | 80 |
@@ -17,7 +17,7 @@
 | H2 Db | :arrow_right: | 70 |
  
  
-## Uygulama Görselleri
+## Application Images
  
 ARTICLE LISTS PAGE
 
