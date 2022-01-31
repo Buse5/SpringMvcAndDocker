@@ -7,7 +7,7 @@
  ## LIVE DEMO
  <p><em><a href="https://springandocker.herokuapp.com/index.html">LIVE DEMO</a></br>
  
- ## Languages And Abilities
+ ## LANGUAGES AND ABILITIES
 
 | Languages/Abilities | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
@@ -17,7 +17,7 @@
 | H2 Db | :arrow_right: | 70 |
  
  
-## Application Images
+## APPLICATION IMAGES
  
 ARTICLE LISTS PAGE
 
